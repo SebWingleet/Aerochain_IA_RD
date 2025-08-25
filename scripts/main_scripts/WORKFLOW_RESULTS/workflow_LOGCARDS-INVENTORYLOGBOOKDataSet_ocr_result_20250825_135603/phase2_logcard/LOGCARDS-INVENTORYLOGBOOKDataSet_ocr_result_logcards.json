@@ -1,0 +1,285 @@
+{
+  "documentInfo": {
+    "sourceMarkdown": "LOGCARDS-INVENTORYLOGBOOKDataSet_ocr_result.json",
+    "totalLogCards": 11,
+    "analysisDate": "2025-08-25T13:56:03.523454",
+    "consolidationDate": "2025-08-25T13:58:08.680145",
+    "documentMetadata": {
+      "source_file": "LOG CARDS - INVENTORY LOG BOOK Data Set.pdf",
+      "extraction_date": "2025-08-21T16:30:40.072698",
+      "total_pages": 24,
+      "file_size_mb": 12.999444961547852,
+      "segments_processed": 0,
+      "total_segments": 11,
+      "extraction_mode": "Segmentation intelligente LogCard",
+      "ocr_engine": "PaddleOCR 3.1.0"
+    },
+    "note": "Fusion recto+verso : champs nuls du recto complétés avec le verso"
+  },
+  "logCards": [
+    {
+      "logCard": 1,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "22",
+        "Name": "SEMA ACTUATOR (VERIN SEMA)",
+        "Manufacturer_PN": "261087183-8002",
+        "SN": "1202",
+        "install_Date_AC": "21/02/2024",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |  |  |\n| MATRICULE | Log card nº | 1 |  |  |  |  |  |  |\n| Contrôle d'exécution des modifications et des Services Bulletins | LOG CARD RR | Fiche n° |  |  |  |  |  |  |\n| Performing | Follow-up Sheet for new equipement |  |  |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification I Identification du matériel |  |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |  |\n| ou société | tampon de contrôle | Name | SEMA ACTUATOR |  |  |  |  |  |\n| d'execution | Dénomination VERIN SEMA |  |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U221A10A1003 |  |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |  |\n| Manufacturer's Part number 261087183-8002 NATO Manuf CodeF'AQ15 |  |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |  |\n| Serial number | 1202 | Amendments B |  |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |  |\n| Supplier SAGEM Défense Sécurité Type |  |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |  |\n| Foumisseur | Adresse |  |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES - | NO | No of sheet : |  |\n| Version | Fonctionnement | Attestation | Annexe au tableau 4 | OUI | NON | Nb de page |  |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | Inventory of lifed components : YES | NO | No of sheet : |  |  |  |\n| No Appareil Support Partiel | Total | aab | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES – | NO X | No of sheet : |  |  |  |  |\n| SAGEM | 01/11/2022 | OH | Fiche Matricule de Transfert | OUI | NON | Nb de page |  |  |\n| Receipt. / Réception. |  |  |  |  |  |  |  |  |\n| Depreservation * |  |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |  |\n| 21/02/2024 H 160 -B | OH | OH | Fitting * | e | Operating limit | Life limit | ATA | 22 |\n| AH | 1054 | Montage | a a b | Limite de fonctionnement | Limite de vie |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |\n| --- | --- | --- | --- | --- | --- |\n| 7 | Successive status and minor/major maintenance and overhaul operations |  |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |  |\n| Contractor | Date | and S/N | Unit / Unité : Hours / Heures | Unit / Unité : Cycles / Cycles | Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |\n| Unité ou société | Date | Version et No d'appareil | Partiel Total Successive locations before A/C delivery - See front page of table 5 |  |  |\n| Support | Partiel | Total | Support |  |  |\n| Support Partial | Total | Support Partial | Total Positions successives avant livraison appareil - Voir recto tableau 5 |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 1,
+        "back_logCard_index": 2
+      }
+    },
+    {
+      "logCard": 3,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "22",
+        "Name": "SEMA ACTUATOR / VERIN SEMA",
+        "Manufacturer_PN": "261087183-8002",
+        "SN": "1223",
+        "install_Date_AC": "21/02/2024",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": null
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking | Log card n° |  |  |  |  |  |\n| Contrôle d'exécution | LOG CARD I FICHE MATRICULE Fiche n° | 1 |  |  |  |  |  |\n| des modifications et des Services Bulletins |  |  |  |  |  |  |  |\n| Performing | Follow-up Sheet for new equipem | su | at |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification / Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | SEMA ACTUATOR |  |  |  |  |\n| d'execution | Dénomination VERIN SEMA |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U221A10A1003 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number 261087183-8002 NATO Manuf Code FAQ15 |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |\n| Serial number | 1223 | Amendments B |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier SAGEM Défense Sécurité Type |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Foumisseur | Adresse |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO | No of sheet : |\n| Version | ammnn | Attestation | Annexe au tableau 4 | oui | NON | Nb de page |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | Inventory of lifed components : YES | ON | No of sheet : |  |  |\n| No Appareil Support Partiel | Total | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |  |\n| aab |  |  |  |  |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES □ | NO | No of sheet : |  |  |  |\n| SAGEM | 01/11/2022 | OH | Fiche Matricule de Transfert | OUI | NON | Nb de page |  |\n| -Receipt. / Réception. |  |  |  |  |  |  |  |\n| Depreservation * |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |\n| H 160 -B | Fitting | FUZTU | Operating limit | Life limit |  |  |  |\n| AH | 21/02/2024 | OH | OH | ATA | 22 |  |  |\n| 1054 | Montage | Limite de fonctionnement | ee e e |  |  |  |  |\n| * Raver la mention inutile | AIRBUS HELICOPTERS E 16-04 |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 7 | status and minor/major maintenance and overhaul operations |  |  |  |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |  |  |  |\n| Aircraft Version | Operations. / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |  |  |  |\n| Contractor | Date | and S/N | Unit / Unité Hours / Heures | Unit / Unité : Cycles / Cycles | Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |  |  |\n| Unité ou société | Date | Version et No d'appareil | Partiel | Total | Support Partiel | Total | Successive locations before AVC delivery - See front page of table 5 |\n| Support |  |  |  |  |  |  |  |\n| Support | Partial | Total | Support | Partial | Total | Positions successives avant livraison appareil - Voir recto tableau 5 |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 3,
+        "back_logCard_index": 4
+      }
+    },
+    {
+      "logCard": 5,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "22",
+        "Name": "ROLL TRIM ACTUATOR / VERIN TRIM ROULIS",
+        "Manufacturer_PN": "261104913-9001",
+        "SN": "589",
+        "install_Date_AC": "15/11/2023",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": 0,
+        "Inventory_lifed_components": false
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |  |\n| Contrôle d'exécution | LOG CARD I FICHE MATRICULE Log card n° | 1 |  |  |  |  |  |\n| des modifications et des Services Bulletins | Fiche n° |  |  |  |  |  |  |\n| Performing | Follow-up Sheet |  |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement | for new equip |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | ROLL TRIM ACTUATOR |  |  |  |  |\n| enenee | Dénomination VERIN TRIM ROULIS |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U221A10A1001 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number 261104913-9001 NATO Manuf Code FAQ15 |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |\n| Serial number | 589 | Amendments A |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier SAGEM Défense Sécurité Type |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Fournisseur | Adresse |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |\n| delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO | No of sheet : |\n| Version | Fonctionnement | Attestation | Annexe au tableau 4 | OUI | NON | Nb de page |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | Inventory of lifed components : YES | NO | No of sheet : |  |  |\n| No Appareil Support Partiel Total | aab | Inventaire des pièces à durée de Vie oui | NON | Nb de page |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | NO X | No of sheet : |  |  |  |\n| SAGEM | 01/08/2023 | OH | Fiche Matricule de Transfert | oUI | NON | Nb de page |  |\n| Receipt. / Réception. |  |  |  |  |  |  |  |\n| Depreservation * |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |\n| H 160 -B | Fitting * | 0 | Operating limit | Life limit | ATA |  |  |\n| AH | 15/11/2023 | OH | OH Montage | Limite de fonctionnement | Limite de vie | 22 |  |\n| 1054 |  |  |  |  |  |  |  |\n| * Delete as necessary * Rayer la mention inutile | AIRBUS HELICOPTERS F 16-04 B |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |\n| --- | --- | --- | --- | --- |\n| 7 | Successive status and minor/major maintenance and overhaul operations |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |\n| Contractor | Date | and S/N | Unit / Unité : Hours / Heures | Unit / Unité : Cycles / Cycles Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |\n| Unité ou société | Date | Version et No d'appareil | Partiel Total Support Partiel Total Successive locations before A/C delivery - See front page of table 5 |  |\n| Support |  |  |  |  |\n| Support Partial | Total | Support je!ded | Total Positions successives avant livraison appareil - Voir recto tableau 5 |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 5,
+        "back_logCard_index": 6
+      }
+    },
+    {
+      "logCard": 7,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "22",
+        "Name": "VERIN DE TRIM COLLECTIF / COLLECTIVE TRIM ACTUATOR",
+        "Manufacturer_PN": "261104921-4001",
+        "SN": "387",
+        "install_Date_AC": "11/10/2023",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": 0,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |  |  |\n| Contrôle d'exécution des modifications et des Services | LOG CARD I FICHE MATRICULE Log card n° | 1 |  |  |  |  |  |  |\n| Bulletins | Fiche n° |  |  |  |  |  |  |  |\n| No. | Performing |  |  |  |  |  |  |  |\n| Type of modification | unit or | Date of embodiement | Follow-up Sheet for new equpe | nigU |  |  |  |  |\n| contractor and Inspection stamp | 1 |  |  |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et | Materiel identification | du matériel |  |  |  |\n| ou société | tampon de contrôle | Name | COLLECTIVE TRIM ACTUATOR |  |  |  |  |  |\n| d'execution | Dénomination VERIN DE TRIM COLLECTIF |  |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num M223A10A0002 |  |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |  |\n| Manufacturer's Part number 261104921-4001 NATO Manuf Code FAQ15 |  |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |  |\n| Serial number | 387 | Amendments E |  |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |  |\n| Supplier SAGEM Défense Sécurité Type |  |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |  |\n| Foumisseur | Adresse |  |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | No of sheet : |  |  |\n| Version | Attestation | NO |  |  |  |  |  |  |\n| Fonctionnement | Annexe au tableau 4 | OUI | NON | Nb de page |  |  |  |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | Inventory of lifed components : YES | NO | No of sheet : |  |  |  |\n| No Appareil Support Partiel | Total | aab | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | NO | No of sheet : |  |  |  |  |\n| SAGEM | 01/09/2023 | OH | Fiche Matricule de Transfert | OUI | NON | Dded oe q |  |  |\n| Receipt. / Róception. |  |  |  |  |  |  |  |  |\n| Depreservation |  |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |  |\n| H 160 -B | Fitting * | F0210 | Operating limit | Life limit |  |  |  |  |\n| AH | 11/10/2023 | 1054 | OH | OH | Montage | e | ATA | 22 |\n| Limite de fonctionnement | Limite de vie |  |  |  |  |  |  |  |\n| esseses e oseos * * Raver la mention inutile |  |  |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |\n| --- | --- | --- | --- | --- |\n| 7 | Successive status and minor/major maintenance and overhaul operations |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |\n| Contractor | Date | and S/N | Unit / Unité : Hours / Heures | Unit / Unité : Cycles / Cycles Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |\n| Unité ou société | Date | Version et No d'appareil | Partiel Total Support Partiel Total Successive locations before A/C delivery - See front page of table 5 |  |\n| Support |  |  |  |  |\n| Support Partial | Total | Support Partial | Total Positions : successives avant livraison appareil - Voir recto tableau 5 |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 7,
+        "back_logCard_index": 8
+      }
+    },
+    {
+      "logCard": 9,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "22",
+        "Name": "COLLECTIVE TRIM ACTUATOR / VERIN DE TRIM COLLECTIF",
+        "Manufacturer_PN": "261104921-4001",
+        "SN": "392",
+        "install_Date_AC": "14/11/2023",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |  |\n| Contrôle | LOG CARD I FICHE MATRICULE Log card n° | 1 |  |  |  |  |  |\n| d'exécution des modifications et des Services Bulletins | Fiche n° |  |  |  |  |  |  |\n| Performing |  |  |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement | Follow-up Sheet for nen |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification / I Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | COLLECTIVE TRIM ACTUATOR |  |  |  |  |\n| d'execution | Dénomination VERIN DE TRIM COLLECTIF |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num M223A10A0002 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number 261104921-4001 NATO Manuf Code FAQ15 |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| eee ee nenn | Version |  |  |  |  |  |  |\n| Serial number | 392 | Amendments E |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier SAGeM Défense Sécurité Type |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Foumisseur | Adresse |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |\n| delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO | No of sheet : |\n| Version | Fonctionnement | Attestation | Annexe au tableau 4 | oui | NON | Nb de page |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | Inventory of lifed components : YES | NO | No of sheet : |  |  |\n| No Appareil Support Partiel Total | aab | Inventaire des pièces à durée de Vie oui | NON | Nb de page |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | NO | No of sheet : |  |  |  |\n| SAGEM | 01/09/2023 | OH | Fiche Matricule de Transfert | ouI | NON | Nb de page |  |\n| Receipt. / Réception. |  |  |  |  |  |  |  |\n| Depreservation * |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |\n| H 160 -B | OH | Fitting * | Operating limit | Life limit | ATA | 22 |  |\n| AH | 14/11/2023 | 1054 | OH | Montage | Limite de fonctionnement | Limite de vie |  |\n| * Delete as necessary * Rayer la mention inutile | AIRBUS HELICOPTERS E 16-04 |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 7 | Successive status and Iminor/major maintenance and overhaul operations |  |  |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and I symptoms) - Accomplished work - Replaced parts |  |  |  |  |\n| Contractor | Date | and S/N | Unit Unité : Hours / Heures | Unit / Unité : Cycles / Cycles | Motif du mouvement (code symptômes) . - Travaux effectués - Pièces changées |  |\n| Unité ou société | Date | Version et No d'appareil | Partiel | Total Successive locations before AVC delivery - See front page of table 5 |  |  |\n| Support | Partiel | Total | Support |  |  |  |\n| Support | Partial | Total | Support | Partial | Total | Positions successives avant livraison n appareil - Voir recto tableau 5 |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 9,
+        "back_logCard_index": 10
+      }
+    },
+    {
+      "logCard": 11,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "31",
+        "Name": "INTERFACE AUX DONNEES DE VOL / DATA MONITORING ANCIL UNIT",
+        "Manufacturer_PN": "271-131-052-051",
+        "SN": "AT13456",
+        "install_Date_AC": "13/10/2023",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |\n| Contrôle d'exécution modifications | LOG CARD I FICHE MATRICULE Log card n° | 1 |  |  |  |  |\n| des | et des Services Bulletins | Fiche n° |  |  |  |  |\n| Performing | Follow-up Sheet for new equipement / Fiche suiveuse Matériel neuf- |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification / Identification du matériel |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |\n| ou société | tampon de contrôle | Name | DATA MONITORING ANCIL UNIT |  |  |  |\n| d'execution | Dénomination INTERFACE AUX DONNEES DE VOL |  |  |  |  |  |\n| 1 | CUSTOMIZATION U313A60S1002 | AH | 13/10/2023 AP | NATO Nomenclature |  |  |\n| C2 0 4 | Nomenclature OTAN |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num M313A10A1003 |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |\n| Manufacturer's Part number 271-131-052-051 NATO Manuf Code S3960 |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |\n| Serial number | AT13456 | Amendments |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |\n| Supplier MEGGITT SA | Type |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |\n| 2 Contract or order I Marché ou commande |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |\n| Fournisseur | Adresse |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |\n| 5 | Aircraft | 4 | Special information / Renseignements particuliers |  |  |  |\n| Operation | Certification | Appendix to table 4 : |  |  |  |  |\n| Contractor | Version | Fonctionnement | Attestation | YES | NO | No of sheet : |\n| Date | and S/N | Annexe au tableau 4 | InO | NON | Nb de page |  |\n| Unité ou société | Date | Version et Support Partial Total | APS | Inventory of lifed components : YES |  |  |\n| No Appareil Support Partiel | Total | C2 019 | NO | No of sheet : |  |  |\n| Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |  |  |\n| MEGGITT SA 01/06/2023 | OH Manuf. / Fab. | Transfert sheet : | YES |  |  |  |\n| Fiche Matricule de Transfert | NO X | No of sheet : |  |  |  |  |\n| Receipt. / Réception. | OUI | NON | Nb de page |  |  |  |\n| Depreservation * |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |\n| AH | H 160 -B | Période de révision VP |  |  |  |  |\n| 13/10/2023 | OH | OH | Fitting * | APS |  |  |\n| 1054 | Montage | Operating limit | Life limit |  |  |  |\n| C2 019 | Limite de fonctionnement | ATA | 31 |  |  |  |\n| * Delete as necessary * Rayer la mention inutile | Limite de vie |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |\n| --- | --- | --- | --- | --- | --- |\n| 7 | Successive status and minor/major maintenance and overhaul operations |  |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |  |\n| Contractor | Date | and S/N | Unit / Unité : Hours / Heures | Unit 1 / Unité : Cycles / Cycles Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |  |\n| Unité ou société | Date | Version et No d’appareil Support Partiel | Total | Support Partiel | Total |\n| Successive locations before A/C delivery - See front page of table 5 |  |  |  |  |  |\n| Support Partial | Total | Support Partial | Total Positions successives avant livraison appareil - Voir recto tableau 5 |  |  |\n| (cid:) | □ | (ci:) |  |  |  |\n| − - | □ | − | - |  |  |\n| I | - □c) | – | − − (ci) |  |  |\n| □ |  |  |  |  |  |\n| □ | - |  |  |  |  |\n| - |  |  |  |  |  |\n| − |  |  |  |  |  |\n| − |  |  |  |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 11,
+        "back_logCard_index": 12
+      }
+    },
+    {
+      "logCard": 13,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "32",
+        "Name": "NOSE WHEEL / ROUE AVANT",
+        "Manufacturer_PN": "C20727200",
+        "SN": "0196C20727",
+        "install_Date_AC": "16/01/2024",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "04:26",
+        "CSN_Part": null,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking | Log card n° |  |  |  |  |  |\n| LOG CARD I FICHE MATRICULE Fiche n° | 1 |  |  |  |  |  |  |\n| Contrôle d'exécution des modifications et des Services Bulletins |  |  |  |  |  |  |  |\n| Performing | Follow-up Sheet for new equipem |  |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification / Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | NOSE WHEEL |  |  |  |  |\n| d'execution | Dénomination ROUE AVANT |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U324A80A1003 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number C20727200 | NATO Manuf Code F6137 |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |\n| Serial number | 0196C20727 | Amendments |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier SAFRAN LANDING SYSTEMS Type |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Fourisseur | Adresse |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO | No of sheet : |\n| Version | Fonctionnement | Attestation | Annexe au tableau 4 | oui | NON | Nb de page |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |\n| Version et Support Partial Total | Inventory of lifed components : YES | NO | No of sheet : |  |  |  |  |\n| Unité ou société | Date | Partiel Total | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |\n| No Appareil Support | aab |  |  |  |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | NO | No of sheet : |  |  |  |\n| SAFRAN | 01/03/2023 | OH | Fiche Matricule de Transfert | OUI | NON | Nb de page |  |\n| Receipt. / Réception. |  |  |  |  |  |  |  |\n| Depreservation * |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |\n| Fitting * | Operating limit | Life limit | ATA | 32 |  |  |  |\n| Montage | Limite de fonctionnement | Limite de vie |  |  |  |  |  |\n| AIRBUS HELCOPTERS E 16-04 B |  |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 7 | Successive status |  |  |  |  |  |\n| and minor/major maintenance and overhaul I operations |  |  |  |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |  |  |\n| Aircraft Version | Operations s / Fonctionnement | Reason for transfer (code ands symptoms) - Accomplished work - Replaced part |  |  |  |  |\n| Contractor | Date | and S/N | Unit / Unité : Hours / Heures | Unit I Unité : Cycles / Cycles | Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |  |\n| Unité ou société | Date | Version et No d'appareil |  |  |  |  |\n| Support Partiel | Total | Support Partiel | Total | Successive locations before A/C delivery - See front page of table 5 |  |  |\n| Support | Partial | Total | Support | Partial | Total | Positions successives avant livraison appareil - Voir recto tableau 5 |\n| H 160 -B | F0210 |  |  |  |  |  |\n| AH | 12/06/2023 | OH | First installation |  |  |  |\n| a ab |  |  |  |  |  |  |\n| H 160 -B | F0210 |  |  |  |  |  |\n| AH | 12/12/2023 | 04H26 | AH final operation e |  |  |  |\n| aab |  |  |  |  |  |  |\n| H 160 -B | F0210 |  |  |  |  |  |\n| AH | 16/01/2024 | OH | 04H26 | Installation |  |  |\n| 1054 | aab |  |  |  |  |  |\n| □ |  |  |  |  |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 13,
+        "back_logCard_index": 14
+      }
+    },
+    {
+      "logCard": 15,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "32",
+        "Name": "NOSE WHEEL / ROUE AVANT",
+        "Manufacturer_PN": "C20727200",
+        "SN": "0206C20727",
+        "install_Date_AC": "16/01/2024",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "04:26",
+        "CSN_Part": null,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking | Log card n° |  |  |  |  |  |\n| Contrôle | LOG CARD I FICHE MATRICULE Fiche n° | 1 |  |  |  |  |  |\n| d'exécution des modifications et des Services Bulletins |  |  |  |  |  |  |  |\n| Performing | Follow-up Sheet for new equipen | ielneuf |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification / 'Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d’exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | NOSE WHEEL |  |  |  |  |\n| d'execution | Dénomination ROUE AVANT |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U324A80A1003 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number C20727200 NATO Manuf CodeF6137 |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |\n| Serial number | 0206C20727 | Amendments |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier SAFRAN LANDING SYSTEMS Type |  |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Foumisseur | Adresse |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO | No of sheet : |\n| Version | Fonctionnement | Annexe au tableau 4 | OUI | NON | Nb de page |  |  |\n| Contractor | Date | and S/N | F0210 |  |  |  |  |\n| Date | Version et Support Partial Total | Inventory of lifed components : YES | NO | No of sheet : |  |  |  |\n| Unité ou société | No Appareil | Partiel Total | Inventaire des pièces à durée de Vie oui | NON | Nb de page |  |  |\n| Support | aab |  |  |  |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES ■ | NO V | No of sheet : |  |  |  |\n| SAFRAN | 01/03/2023 | OH | Fiche Matricule de Transfert | ouI | NON | Nb de page |  |\n| Receipt. / Récoption. |  |  |  |  |  |  |  |\n| Depreservation |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |\n| Fitting | Operating limit | Life limit | ATA | 32 |  |  |  |\n| Montage | Limite de fonctionnement | Limite de vie |  |  |  |  |  |\n| le montion inut | AIRBUS HELCOPTERS E 16-04 |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 7 | Successive status and minor/major maintenance and overhaul operations |  |  |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |  |  |\n| Contractor | Date | and S/N | Unit / Unité : Hours / Heures | Unit / Unité : Cycles / Cycles Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées |  |  |\n| Unité ou société Date Version et No d'appareil | delivery - See front page of table 5 |  |  |  |  |  |\n| Support Partiel | Total | Support Partiel | Total | Successive locations before A/C |  |  |\n| Support | Partial | Total | Support | Partial | Total | Positions successives avant t livraison appareil - Voir recto tableau 5 |\n| H 160 -B | F0210 |  |  |  |  |  |\n| AH | 12/06/2023 | OH | First installation |  |  |  |\n| aab |  |  |  |  |  |  |\n| H 160 | F0210 |  |  |  |  |  |\n| AH | 12/12/2023 | -B | 04H26 | AH final operation e |  |  |\n| aab |  |  |  |  |  |  |\n| AH | 16/01/2024 | H 160 -B | F0210 |  |  |  |\n| OH | 04H26 | Installation | - |  |  |  |\n| 1054 | aab |  |  |  |  |  |\n| (cid:) |  |  |  |  |  |  |\n| − |  |  |  |  |  |  |\n| - |  |  |  |  |  |  |\n| (cid:) |  |  |  |  |  |  |\n| Il |  |  |  |  |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 15,
+        "back_logCard_index": 16
+      }
+    },
+    {
+      "logCard": 17,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": null,
+        "Name": "MAIN WHEEL / ROUE PRINCIPALE",
+        "Manufacturer_PN": "C20809200",
+        "SN": "0060C20809",
+        "install_Date_AC": "20/01/2024",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |  |  |  |\n| CARD 7 FICHE MATRICULE Log card n° | 1 |  |  |  |  |  |  |  |  |\n| Contrôle d’exécution des modifications et des Services Bulletins | LOG | Fiche n° |  |  |  |  |  |  |  |\n| Performing | Follow-up Sheet for new equipement / Fiche suiveuse Matériel neuf |  |  |  |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification I Identification du matériel |  |  |  |  |  |  |  |\n| Numéro | Nature de la a modification | Unité | Date d'exécution et |  |  |  |  |  |  |\n| ou société | tampon de contrôle | Name | MAIN WHEEL |  |  |  |  |  |  |\n| d'execution | Dénomination ROUE PRINCIPALE |  |  |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U32 4A10A100 4 |  |  |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |  |  |\n| Manufacturer's Part number C20809200 NATO Manuf Code F6137 |  |  |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |  |  |\n| Serial number | 0060C20809 | Amendments |  |  |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |  |  |\n| Supplier SAFRAN LANDING SYSTEMS Type |  |  |  |  |  |  |  |  |  |\n| Fabricant | (WB) | Type |  |  |  |  |  |  |  |\n| 2 | Contract or order / Marché ou commande |  |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |  |  |\n| Fournisseur | Adresse |  |  |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES |  |  |  |  |\n| Version | NO | No of sheet : |  |  |  |  |  |  |  |\n| Fonctionnement | Attestation | Annexe au tableau 4 | OUI | NON | Nb de page |  |  |  |  |\n| Contractor | Date | and S/N |  |  |  |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | APS | Inventory of lifed components : YES | NO | No of sheet : |  |  |  |\n| No Appareil Support Partiel | Total | C2 019 | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | NO | No of sheet : |  |  |  |  |  |\n| SAFRAN | 01/12/2021 | OH | Fiche Matricule de Transfert | OUI | NON | Nb de page |  |  |  |\n| -Receipt./ Réception. |  |  |  |  |  |  |  |  |  |\n| Depreservation * | CONCESSION : MA-5151810-A |  |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |  |  |\n| H 160 -B | Fitting * | APS | Operating limit | Life limit |  |  |  |  |  |\n| AH | 20/01/2024 | 1054 | OH | OH | Montage | C2 019 | Limite de fonctionnement | Limite de vie | ATA |\n| * Delete as necessary * Rayer la mention inutile | AIRBUS HELICOPTERS F 16-04 B |  |  |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 |\n| --- | --- | --- |\n| − | (cd) | − |\n| □ | □ |  |\n| – / | (cid) |  |\n| L □c | (c − |  |\n| − |  |  |\n| − |  |  |\n| − | □ |  |\n| FREEE |  |  |\n| − | – |  |\n| Il | (cid:) |  |\n| ci |  |  |\n| ;. |  |  |\n| . |  |  |\n| I |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 17,
+        "back_logCard_index": 18
+      }
+    },
+    {
+      "logCard": 19,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "32",
+        "Name": "MAIN WHEEL / ROUE PRINCIPALE",
+        "Manufacturer_PN": "C20809200",
+        "SN": "0089C20809",
+        "install_Date_AC": "03/10/2022",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification |  |  |  |  |  |  |\n| and Services Bulletin checking | Log card d n° |  |  |  |  |  |  |\n| Contrôle d'exécution des modifications et des Services Bulletins | LOG CARD 1 FICHE MATRICULE Fiche n° | 1 |  |  |  |  |  |\n| No. | Performing | Follow-up Sheet for new equipement / Fiche suiveuse Matériel neuf- |  |  |  |  |  |\n| Type of modification | unit or | Date of embodiement |  |  |  |  |  |\n| contractor and Inspection stamp | 1 | Materiel identification / Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | MAIN WHEEL |  |  |  |  |\n| d'execution | Dénomination ROUE PRINCIPALE |  |  |  |  |  |  |\n| NATO Nomenclature |  |  |  |  |  |  |  |\n| Nomenclature OTAN |  |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num U32 4A10A100 4 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number C20809200 NATO Manuf Code F6137 |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |\n| Serial number | 0089C20809 | Amendments |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier SAFRAN LANDING SYSTEMS Type |  |  |  |  |  |  |  |\n| Fabricant | (WB) | Type |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| Organisme émetteur | N° de lot |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Fournisseur | Adresse |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | Durée Garantie de |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO | No of sheet : |\n| Version | Fonctionnement | Attestation | Annexe au tableau 4 | OUI | NON | Nb de page |  |\n| Contractor | Date | and S/N |  |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | APS | Inventory of lifed components : YES | NO | No of sheet : |  |\n| No Appareil Support Partiel | Total | C2 019 | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | NO | No of sheet : |  |  |  |\n| SAFRAN | 03/10/2022 | OH | Fiche Matricule de Transfert | OUI | NON | Nb de page |  |\n| Receipt. / Réception. |  |  |  |  |  |  |  |\n| Depreservation * | CONCESSION : MA-5143716-B |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |\n| Fitting * | Operating limit | Life limit | ATA |  |  |  |  |\n| Montage | Limite de fonctionnement | Limite de vie | 32 |  |  |  |  |\n| * Delete as necessary * Rayer la mention inutile | AIRBUS HELICOPTERS F 16-04 B4 |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |\n| --- | --- | --- | --- | --- |\n| - | – |  |  |  |\n| □ | — | − | - | − |\n| / | I |  |  |  |\n| (cid:) | (cid:) — - |  |  |  |\n| — | □ | ] | − |  |\n| – | (c) |  |  |  |\n| − |  |  |  |  |\n| - | c | (ci:) | — . | − |\n| - | : |  |  |  |\n| (ci:) |  |  |  |  |\n| − |  |  |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 19,
+        "back_logCard_index": 20
+      }
+    },
+    {
+      "logCard": 21,
+      "pageNumbers": [],
+      "logCardData": {
+        "ATA": "34",
+        "Name": "CALCULATEUR CMA9000",
+        "Manufacturer_PN": "100-601951-503",
+        "SN": "3544",
+        "install_Date_AC": "20/10/2023",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": true
+      },
+      "originalMarkdown": {
+        "front_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6 | Modification and Services Bulletin checking |  |  |  |  |  |  |\n| Contrôle | LOG CARD I FICHE MATRICULE Log card n° | 1 |  |  |  |  |  |\n| d’exécution des modifications et des Services Bulletins | Fiche n° |  |  |  |  |  |  |\n| Performing | Follow-up Sheet for new equipement / Fiche Sutt | e net |  |  |  |  |  |\n| No. | Type of modification | unit or | Date of embodiement |  |  |  |  |\n| contractor andI Inspection stamp | 1 | Materiel identification / Identification du matériel |  |  |  |  |  |\n| Numéro | Nature de la modification | Unité | Date d'exécution et |  |  |  |  |\n| ou société | tampon de contrôle | Name | FMS CMA9000 |  |  |  |  |\n| d’execution | Dénomination CALCULATEUR CMA9000 |  |  |  |  |  |  |\n| 1 | CUSTOMIZATION U346A31S0341 | AH | 16/10/2023 AFS | NATO Nomenclature |  |  |  |\n| C219 | Nomenclature OTAN |  |  |  |  |  |  |\n| AIRBUS HELICOPTERS Part num 70 4A47336084 |  |  |  |  |  |  |  |\n| Référence |  |  |  |  |  |  |  |\n| Manufacturer's Part number 100-601951-503 NATO Manuf Code 90073 |  |  |  |  |  |  |  |\n| Référence fabricant | Code OTAN fabricant |  |  |  |  |  |  |\n| Delivery configuration | Version |  |  |  |  |  |  |\n| Configuration de livraison | Version |  |  |  |  |  |  |\n| Serial number | 3544 | Amendments 8 |  |  |  |  |  |\n| Numéro de série | Amendements |  |  |  |  |  |  |\n| Supplier CMC ELECTRONICS | Type |  |  |  |  |  |  |\n| Fabricant | Type |  |  |  |  |  |  |\n| 2 Contract or order / Marché ou commande |  |  |  |  |  |  |  |\n| Reference | Date |  |  |  |  |  |  |\n| Référence | Date |  |  |  |  |  |  |\n| Issuing agency | Batch n° |  |  |  |  |  |  |\n| N° de lot |  |  |  |  |  |  |  |\n| Contractor | Adresse |  |  |  |  |  |  |\n| Fournisseur | Adresse |  |  |  |  |  |  |\n| 3 | Guarantee / Garantie |  |  |  |  |  |  |\n| Equipment Date of Guaranteed storage period Service date Guarantee operation |  |  |  |  |  |  |  |\n| Matériel delivery | Durée garantie de stockage | Date de mise en | period |  |  |  |  |\n| Date de | service | e en ee |  |  |  |  |  |\n| livraison | fonctionnement |  |  |  |  |  |  |\n| 4 Special information / Renseignements particuliers |  |  |  |  |  |  |  |\n| 5 | Aircraft | Operation | Certification | Appendix to table 4 : | YES | NO |  |\n| Version | Fonctionnement | Attestation | No of sheet : |  |  |  |  |\n| Contractor | Date | Annexe au tableau 4 | OuI | NON | Nb de page |  |  |\n| and S/N | APS |  |  |  |  |  |  |\n| Unité ou société | Date | Version et Support Partial Total | C2 019 | Inventory of lifed components : YES | ON | No of sheet : |  |\n| No Appareil Support Partiel Total | Inventaire des pièces à durée de Vie OUI | NON | Nb de page |  |  |  |  |\n| Manuf. / Fab.* | Transfert sheet : | YES | ON 4 | No of sheet : |  |  |  |\n| CMC | 01/05/2023 | OH | Fiche Matricule de Transfert | OUI | NON |  |  |\n| Receipt. / Réception. | Nb de page |  |  |  |  |  |  |\n| Depreservation * |  |  |  |  |  |  |  |\n| Destockage |  |  |  |  |  |  |  |\n| Period overhaul * |  |  |  |  |  |  |  |\n| Période de révision VP |  |  |  |  |  |  |  |\n| AH | 20/10/2023 H 160 -B | OH | OH | Fitting | APS | Operating limit | Life limit |\n| 1054 | Montage | C2 019 | Limite de fonctionnement | Limite de vie | ATA | 34 |  |\n| * Delete as necessary * Rayer la mention inutile |  |  |  |  |  |  |  |",
+        "back_page_markdown": "| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |\n| --- | --- | --- | --- | --- |\n| 7 | Successive status and minor/major maintenance and overhaul operations |  |  |  |\n| Positions successives et opérations d'entretien et de remise en état mineures et majeures |  |  |  |  |\n| Aircraft Version | Operations / Fonctionnement | Reason for transfer (code and symptoms) - Accomplished work - Replaced parts |  |  |\n| Contractor | Date | and S/N | Unit 1 Unité : Hours / Heures | Unit / Unité : Cycles / Cycles Motif f du mouvement (code symptômes) - Travaux effectués - Pièces changées |\n| Unité ou société | Date | Version et No d'appareil Support Partiel Total Support Partiel Total Successive locations before A/C delivery - See front page of table 5 |  |  |\n| Support Partial | Total | Support Partial | Total Positions successives avant livraison appareil - Voir recto tableau 5 |  |\n| − |  |  |  |  |\n| □ |  |  |  |  |\n| − | − |  |  |  |\n| - |  |  |  |  |\n| — |  |  |  |  |\n| (ci) | □ | □ |  |  |\n| - |  |  |  |  |\n| ci |  |  |  |  |\n| − |  |  |  |  |\n| □ |  |  |  |  |\n| □ | − - |  |  |  |"
+      },
+      "pairInfo": {
+        "front_logCard_index": 21,
+        "back_logCard_index": 22
+      }
+    }
+  ]
+}

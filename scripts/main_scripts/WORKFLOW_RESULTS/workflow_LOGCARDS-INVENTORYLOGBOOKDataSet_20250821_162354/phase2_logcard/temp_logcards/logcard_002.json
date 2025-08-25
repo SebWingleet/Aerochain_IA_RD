@@ -1,0 +1,17 @@
+{
+  "logCard": 2,
+  "pageNumbers": [],
+  "logCardData": {
+    "ATA": null,
+    "Name": null,
+    "Manufacturer_PN": null,
+    "SN": null,
+    "install_Date_AC": null,
+    "TSN_AC": null,
+    "CSN_AC": null,
+    "TSN_Part": null,
+    "CSN_Part": null,
+    "Inventory_lifed_components": null
+  },
+  "originalMarkdown": "7 Successive status and minor/major maintenance and overhaul operations\nPositions successives et opérations d'entretien et de remise en état mineures et majeures\nAircraft Version Operations / Fonctionnement Reason for transfer (code and symptoms) - Accomplished work - Replaced parts\nContractor Date and S/N Unit / Unité : Hours / Heures Unit / Unité : Cycles / Cycles Motif du mouvement (code symptômes) - Travaux effectués - Pièces changées\nUnité ou société Date Version et No d'appareil Partiel Total Successive locations before A/C delivery - See front page of table 5\nSupport Partiel Total Support\nSupport Partial Total Support Partial Total Positions successives avant livraison appareil - Voir recto tableau 5"
+}

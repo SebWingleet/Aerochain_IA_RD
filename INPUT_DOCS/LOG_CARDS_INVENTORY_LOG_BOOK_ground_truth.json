@@ -1,0 +1,221 @@
+{
+  "documentInfo": {
+    "filename": "LOG CARDS - INVENTORY LOG BOOK Data Set.pdf",
+    "totalLogCards": 23,
+    "ocrAnalysisDate": "2025-07-30T19:04:45.116786",
+    "logcardAnalysisDate": "2025-07-30T19:05:52.327639",
+    "consolidationDate": "2025-07-30T19:09:08.435571"
+  },
+  "logCards": [
+    {
+      "logCard": 1,
+      "pageNumbers": [
+        3,
+        4
+      ],
+      "logCardData": {
+        "ATA": 22,
+        "Name": "SEMA ACTUATOR",
+        "Manufacturer_PN": "261087183-8002",
+        "SN": "1202",
+        "install_Date_AC": "21/02/2024",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+    {
+      "logCard": 3,
+      "pageNumbers": [
+        5,
+        6
+      ],
+      "logCardData": {
+        "ATA": 22,
+        "Name": "SEMA ACTUATOR",
+        "Manufacturer_PN": "261087183-8002",
+        "SN": "1223",
+        "install_Date_AC": "21/02/2024",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+    {
+      "logCard": 5,
+      "pageNumbers": [
+        7,
+        8
+      ],
+      "logCardData": {
+        "ATA": 22,
+        "Name": "ROLL TRIM ACTUATOR",
+        "Manufacturer_PN": "261104913-9001",
+        "SN": "589",
+        "install_Date_AC": "15/11/2023",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+    {
+      "logCard": 7,
+      "pageNumbers": [
+        9,
+        10
+      ],
+      "logCardData": {
+        "ATA": 22,
+        "Name": "COLLECTIVE TRIM ACTUATOR ",
+        "Manufacturer_PN": "261104921-4001",
+        "SN": "387",
+        "install_Date_AC": "11/10/2023",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+    {
+      "logCard": 9,
+      "pageNumbers": [
+        11,
+        12
+      ],
+      "logCardData": {
+        "ATA": 22,
+        "Name": "COLLECTIVE TRIM ACTUATOR",
+        "Manufacturer_PN": "261104921-4001",
+        "SN": "392",
+        "install_Date_AC": "14/11/2023",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+    {
+      "logCard": 11,
+      "pageNumbers": [
+        13,
+        14
+      ],
+      "logCardData": {
+        "ATA": 31,
+        "Name": "DATA MONITORING ANCIL UNIT",
+        "Manufacturer_PN": "271-131-052-051",
+        "SN": "AT13456",
+        "install_Date_AC": "13/10/2023",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+     {
+      "logCard": 13,
+      "pageNumbers": [
+        15,
+        16
+      ],
+      "logCardData": {
+        "ATA": 32,
+        "Name": "NOSE WHEEL",
+        "Manufacturer_PN": "C20727200",
+        "SN": "0196C20727",
+        "install_Date_AC": "16/01/2024",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "04:26",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+         {
+      "logCard": 15,
+      "pageNumbers": [
+        17,
+        18
+      ],
+      "logCardData": {
+        "ATA": 32,
+        "Name": "NOSE WHEEL",
+        "Manufacturer_PN": "C20727200",
+        "SN": "0206C20727",
+        "install_Date_AC": "16/01/2024",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "04:26",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+
+    {
+      "logCard": 17,
+      "pageNumbers": [
+        19,
+        20
+      ],
+      "logCardData": {
+        "ATA": 32,
+        "Name": "MAIN WHEEL",
+        "Manufacturer_PN": "C20809200 ",
+        "SN": "0060C20809 ",
+        "install_Date_AC": "20/01/2024",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+    {
+      "logCard": 19,
+      "pageNumbers": [
+        21,
+        22
+      ],
+      "logCardData": {
+        "ATA": 32,
+        "Name": "MAIN WHEEL",
+        "Manufacturer_PN": "C20809200",
+        "SN": "0089C20809",
+        "install_Date_AC": "03/10/2022",
+        "TSN_AC": "00:00",
+        "CSN_AC": 0,
+        "TSN_Part": "04:26",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    },
+        {
+      "logCard": 21,
+      "pageNumbers": [
+        23,
+        24
+      ],
+      "logCardData": {
+        "ATA": 34,
+        "Name": "CALCULATEUR CMA9000",
+        "Manufacturer_PN": "100-601951-503",
+        "SN": "3544",
+        "install_Date_AC": "20/10/2023",
+        "TSN_AC": null,
+        "CSN_AC": null,
+        "TSN_Part": "00:00",
+        "CSN_Part": null,
+        "Inventory_lifed_components": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "markdown_path": "WORKFLOW_RESULTS\\workflow_LOGCARDS-INVENTORYLOGBOOKDataSet_20250821_162354\\phase1_ocr\\LOGCARDS-INVENTORYLOGBOOKDataSet_ocr_result.json",
+  "start_time": "2025-08-21T16:30:40.474631",
+  "total_logcards": 22,
+  "completed_logcards": 2,
+  "failed_logcards": [],
+  "logcard_files": {
+    "1": {
+      "file": "WORKFLOW_RESULTS\\workflow_LOGCARDS-INVENTORYLOGBOOKDataSet_20250821_162354\\phase2_logcard\\temp_logcards\\logcard_001.json",
+      "page_numbers": [],
+      "completed_at": "2025-08-21T16:30:45.317159"
+    },
+    "2": {
+      "file": "WORKFLOW_RESULTS\\workflow_LOGCARDS-INVENTORYLOGBOOKDataSet_20250821_162354\\phase2_logcard\\temp_logcards\\logcard_002.json",
+      "page_numbers": [],
+      "completed_at": "2025-08-21T16:30:49.123611"
+    }
+  },
+  "completed": false
+}

@@ -1,0 +1,18 @@
+{
+  "filename": "LOG CARDS - INVENTORY LOG BOOK Data Set.pdf",
+  "total_pages": 24,
+  "content_length": 459220,
+  "metadata": {
+    "source_file": "LOG CARDS - INVENTORY LOG BOOK Data Set.pdf",
+    "extraction_date": "2025-08-21T16:30:40.072698",
+    "total_pages": 24,
+    "file_size_mb": 12.999444961547852,
+    "segments_processed": 0,
+    "total_segments": 11,
+    "extraction_mode": "Segmentation intelligente LogCard",
+    "ocr_engine": "PaddleOCR 3.1.0"
+  },
+  "analysis_date": "2025-08-21T16:30:40.534016",
+  "segments_processed": 0,
+  "total_segments": 11
+}

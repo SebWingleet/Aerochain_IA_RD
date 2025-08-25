@@ -1,0 +1,13 @@
+{
+  "document_structure": {
+    "title_pages": [1, 2],
+    "logcard_start_page": 3,
+    "default_logcard_size": 2,
+    "isolated_logcards": [
+      {"page": 31, "size": 1},
+      {"page": 34, "size": 1},
+      {"page": 101, "size": 7},
+      {"page": 108, "size": 7}
+    ]
+  }
+}
