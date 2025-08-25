@@ -1,7 +1,7 @@
 # AerochainIAR-D
 
 ## Lancer l'environnement
--aller a la base du projet et lancer la commande suivante : **    pip install -r requirements.txt **
+-aller a la base du projet et lancer la commande suivante : **pip install -r requirements.txt**
 Cela devrait installer toutes les dépendances necessaires.
 
 
