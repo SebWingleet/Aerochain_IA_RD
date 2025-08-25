@@ -687,7 +687,7 @@ RÉPONDEZ UNIQUEMENT EN JSON VALIDE.
 
 
     def _paddle_segment_to_markdown_table(self, seg: dict, conf_thresh: float = 0.30,
-                                      min_cols: int = 2, max_cols: int = 10) -> str:
+                                      min_cols: int = 2, max_cols: int = 100) -> str:
         toks = self._tokens_from_seg(seg, conf_thresh=conf_thresh)
         if not toks:
             return ""
