@@ -576,4 +576,4 @@ if __name__ == "__main__":
     main()
 
 
-# python verification_results_2.py --extracted "C:\Users\lilia\Desktop\freelance\clients\Wingleet\Projet_DEV_Lilian\scripts\main_scripts\WORKFLOW_RESULTS\workflow_LOGCARDS-INVENTORYLOGBOOKDataSet_ocr_result_20250825_115159\phase2_logcard\LOGCARDS-INVENTORYLOGBOOKDataSet_ocr_result_logcards.json" --ground-truth "C:\Users\lilia\Desktop\freelance\clients\Wingleet\Projet_DEV_Lilian\INPUT_DOCS\LOG_CARDS_INVENTORY_LOG_BOOK_ground_truth.json"
+# python verification_results_2.py --extracted "C:\Users\lilia\Desktop\freelance\clients\Wingleet\Aerochain_IA_RD\scripts\main_scripts\WORKFLOW_RESULTS\workflow_LOGCARDS-INVENTORYLOGBOOKDataSet_ocr_result_20250825_172922\phase2_logcard\LOGCARDS-INVENTORYLOGBOOKDataSet_ocr_result_logcards.json" --ground-truth "C:\Users\lilia\Desktop\freelance\clients\Wingleet\Aerochain_IA_RD\INPUT_DOCS\LOG_CARDS_INVENTORY_LOG_BOOK_ground_truth.json"
